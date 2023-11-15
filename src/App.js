@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a test edit if this will take effect
+          This is a test edit if this will take effect. This text is added to test commit.
         </p>
         <a
           className="App-link"
