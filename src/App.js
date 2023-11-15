@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Then Learn Nothing On This Platform
+          Learn React Then Learn Nothing On This Platform This is a link that I made very long just like my schlong
         </a>
       </header>
     </div>
