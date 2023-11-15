@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is a test edit if this will take effect. This text is added to test commit. Another Test Commit
+
+          Playing Aroung with Commit on Git and Github.
         </p>
         <a
           className="App-link"
